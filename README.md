@@ -1,0 +1,3 @@
+Parses the region files (e.g. northamerica) from the tz database, which is maintained at http://www.iana.org/time-zones.
+
+The included .csv file contains the TZIDs and UTC offsets from the end of 2013. Note: The .csv file was manually edited to include approximately one dozen TZIDs that the region files do not contain explicit rules for. These entries are merely linked to other entries in the region files (e.g. America/Kralendijk is linked to America/Curacao).
